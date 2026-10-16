@@ -11,3 +11,5 @@
 .hero{display:flex;flex-direction:column}.hero-stage{order:1}.monument{order:2}
 
 .light :focus-visible{outline-color:var(--paper-ink)}
+
+.site-header nav a{padding-inline:4px;min-width:44px}
