@@ -41,3 +41,7 @@ Keine automatische Veröffentlichung, kein Push/Merge und kein externer Formular
 Für neue Webseiten und ausdrücklich beauftragte Redesigns `design-taste-frontend` nutzen: Brief und belegte Inhalte → Argument/Textdeck → gezogene Gestaltungsrichtung → Umsetzung → Quellen-Lint und Browserinspektion → visuelle Kritik und gezielte Korrekturen. Der Skill ist mit Commit-Pin und MIT-Lizenz installiert. Bei blockierten Originalquellen keine Salon-Fakten erfinden; Konzeptmaterial sichtbar kennzeichnen. UI/UX Pro Max liefert ergänzend konkrete Accessibility-/Mobile-Regeln. Keine drei gleichlautenden Komplett-Audits mit UI/UX Pro Max, Taste und Impeccable durchführen.
 
 Die drei lokalen Konzeptseiten liegen unter `atelier/`, `studio/`, `galerie/`; `index.html` vergleicht sie. Abweichungen, Quellen und die verbleibende Originalseiten-Sperre stehen in `DESIGN-NOTES.md`. Es sind keine veröffentlichten Seiten und keine auditierte Neufassung der Originalinhalte.
+
+## Aktuelle Salon-Demo
+
+Die Startseite führt jetzt zu `demo/`. `demo/SOURCES.md` und `assets/salon/sources.json` dokumentieren die echten Inhalte und Originalbilder. Die Originalwebsite ist wieder erreichbar. `vergleich.html` bewahrt die früheren Konzeptstudien. Keine neuen Salon-Fakten erfinden und keine generierten Vergleichsbilder als echte Salonarbeiten verwenden. Die Anfragefunktion bereitet nur eine Gesprächsnotiz vor; ein Termin wird am Telefon vereinbart. Kein automatischer Nachrichtenversand. `npm test` prüft den zeitabhängigen Öffnungsstatus.

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "salon-reception.jpg",
+    "name": "Unser Salon",
+    "category": "salon",
+    "alt": "Empfang und Spiegel im Coiffeur Merveilleux"
+  },
+  {
+    "file": "salon-detail.jpg",
+    "name": "Dein Platz bei uns",
+    "category": "salon",
+    "alt": "Frisierplatz mit Merveilleux-Umhang und rundem Spiegel"
+  },
+  {
+    "file": "merve.jpeg",
+    "name": "Merve",
+    "category": "team",
+    "alt": "Merve, Inhaberin von Coiffeur Merveilleux, im Salon"
+  },
+  {
+    "file": "ayse.jpg",
+    "name": "Ayse",
+    "category": "team",
+    "alt": "Ayse, Mitarbeiterin von Coiffeur Merveilleux"
+  },
+  {
+    "file": "zilly.jpeg",
+    "name": "Zilly",
+    "category": "team",
+    "alt": "Zilly, der schwarze Salonhund mit rosa Halsband"
+  },
+  {
+    "file": "maske.jpg",
+    "name": "Merveilleux Maske",
+    "category": "pflege",
+    "alt": "Originalfoto der Merveilleux Haarmaske"
+  },
+  {
+    "file": "conditioner.jpg",
+    "name": "Merveilleux Conditioner",
+    "category": "pflege",
+    "alt": "Originalfoto des Merveilleux Conditioners"
+  },
+  {
+    "file": "shampoo.jpg",
+    "name": "Merveilleux Shampoo",
+    "category": "pflege",
+    "alt": "Originalfoto des Merveilleux Shampoos"
+  }
+]

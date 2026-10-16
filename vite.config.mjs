@@ -7,7 +7,9 @@ export default {
   build: {
     rolldownOptions: {
       input: {
-        vergleich: entry('./index.html'),
+        index: entry('./index.html'),
+        vergleich: entry('./vergleich.html'),
+        demo: entry('./demo/index.html'),
         atelier: entry('./atelier/index.html'),
         studio: entry('./studio/index.html'),
         galerie: entry('./galerie/index.html'),

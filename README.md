@@ -1,9 +1,8 @@
-# Coiffeur Merveilleux: drei Gestaltungsstudien
+# Coiffeur Merveilleux: klickbare Salon-Demo
 
-Vergleichsseite mit den drei eigenständigen Entwürfen Atelier, Studio und Galerie.
-Alle Bildmotive sind KI-generierte Studien, die Texte sind Entwurfsvorschläge.
-Reale Salonangebote, Preise, Teamfotos und Kontaktwege müssen vor einem
-Produktivstart abgeglichen werden. Dies ist eine Konzeptvorschau.
+Die Startseite führt zur modernen Salon-Demo unter `demo/`: Originalbilder, Team, Preise, beworbene Angebote, Galerie, Öffnungszeiten und Kontakt aus der bestehenden Salon-Website. Bild- und Datenquellen sowie Grenzen stehen in `demo/SOURCES.md`. Die Terminanfrage bereitet eine Gesprächsnotiz vor und führt zum echten Telefonkontakt; sie sendet keine Nachricht und bestätigt keinen Termin.
+
+Die ursprünglichen drei Konzeptstudien bleiben unter `vergleich.html` erhalten und enthalten weiterhin klar gekennzeichnete generierte Bildstudien.
 
 ## Entwicklung
 
@@ -15,11 +14,12 @@ npm run dev
 ```
 
 ```sh
+npm test
 npm run build
 npm run preview
 ```
 
-Der Build erzeugt vier HTML-Einstiege und gemeinsam genutzte Dateien in `dist/`.
+Der Build erzeugt sechs HTML-Einstiege und gemeinsam genutzte Dateien in `dist/`.
 Relative Asset-Pfade unterstützen auch GitHub-Pages-Projektadressen.
 Die beiden geprüften ZIP-Pakete liegen unter `public/downloads/` und werden
 unverändert in den Build kopiert. Lizenztexte der Schriften liegen unter
