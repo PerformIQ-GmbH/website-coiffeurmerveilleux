@@ -9,3 +9,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.motion-ready [data-reveal]{opacity:1;transform:none}.motion-ready [data-image] img{clip-path:none;transform:none}}
 
 .hero{display:flex;flex-direction:column}.hero-stage{order:1}.monument{order:2}
+
+.light :focus-visible{outline-color:var(--paper-ink)}
