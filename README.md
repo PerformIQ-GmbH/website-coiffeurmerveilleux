@@ -1,3 +1,4 @@
-# Coiffeur Merveilleux: concept preview
+# Coiffeur Merveilleux: öffentliche Demo
 
-Built static preview of Atelier, Studio and Galerie, with downloadable packages. Source is on the main branch. This is not the salon production website.
+Statische Ausgabe des geprüften Vite-Builds. Quellcode liegt in main.
+Demo: https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo/
