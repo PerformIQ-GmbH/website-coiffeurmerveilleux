@@ -45,3 +45,7 @@ Die drei lokalen Konzeptseiten liegen unter `atelier/`, `studio/`, `galerie/`; `
 ## Aktuelle Salon-Demo
 
 Die Startseite führt jetzt zu `demo/`. `demo/SOURCES.md` und `assets/salon/sources.json` dokumentieren die echten Inhalte und Originalbilder. Die Originalwebsite ist wieder erreichbar. `vergleich.html` bewahrt die früheren Konzeptstudien. Keine neuen Salon-Fakten erfinden und keine generierten Vergleichsbilder als echte Salonarbeiten verwenden. Die Anfragefunktion bereitet nur eine Gesprächsnotiz vor; ein Termin wird am Telefon vereinbart. Kein automatischer Nachrichtenversand. `npm test` prüft den zeitabhängigen Öffnungsstatus.
+
+## Zweite Demo aus Kundensicht
+
+`demo-2/` ist eine separate Variante. `demo/` und die Startweiterleitung bleiben erhalten. Instagram und TikTok haben sichtbare Direktlinks; Profileinbettungen werden erst auf Besucher-Klick nachgeladen. Keine Feed-Verfügbarkeit, Buchung oder Nachrichtenzustellung vortäuschen. `demo-2/BRIEF.md` hält Argumentation und Quellen fest, `demo-2/REVIEW.md` den Review. Die öffentliche Review-Seite liegt unter `design-review/`. Bei Weiterentwicklung gezielt betroffene Browserzustände prüfen, beide Demos im Build erhalten.

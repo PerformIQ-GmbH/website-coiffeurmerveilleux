@@ -4,6 +4,14 @@ Die Startseite führt zur modernen Salon-Demo unter `demo/`: Originalbilder, Tea
 
 Die ursprünglichen drei Konzeptstudien bleiben unter `vergleich.html` erhalten und enthalten weiterhin klar gekennzeichnete generierte Bildstudien.
 
+## Zweite Demo und Design-Review
+
+- [Demo 1](https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo/): bestehende Salon-Demo, unverändert erhalten.
+- [Demo 2](https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo-2/): eigenständige Gestaltung aus Kundensicht, Preise früh, direkte Social-Profile und optionale Einbettungen.
+- [Design-Review](https://performiq-gmbh.github.io/website-coiffeurmerveilleux/design-review/): Kundenargumente, Review-Ergebnisse und Grenzen.
+
+Instagram und TikTok werden erst nach Klick eingebettet. Direkte Profil-Links bleiben bei blockierten Plattforminhalten und ohne JavaScript nutzbar. Es gibt keine Kontoverknüpfung, API-Synchronisierung oder Veröffentlichung von Posts. Die zweite Gesprächsnotiz bleibt lokal; der Salon wird telefonisch kontaktiert. Brief, Richtung und Quellen stehen in `demo-2/BRIEF.md`, der Review in `demo-2/REVIEW.md`.
+
 ## Entwicklung
 
 Node.js 24 verwenden; die genaue Version steht in `.nvmrc`.
@@ -19,7 +27,7 @@ npm run build
 npm run preview
 ```
 
-Der Build erzeugt sechs HTML-Einstiege und gemeinsam genutzte Dateien in `dist/`.
+Der Build erzeugt acht HTML-Einstiege und gemeinsam genutzte Dateien in `dist/`.
 Relative Asset-Pfade unterstützen auch GitHub-Pages-Projektadressen.
 Die beiden geprüften ZIP-Pakete liegen unter `public/downloads/` und werden
 unverändert in den Build kopiert. Lizenztexte der Schriften liegen unter
