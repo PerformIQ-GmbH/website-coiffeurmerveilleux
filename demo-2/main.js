@@ -1,3 +1,4 @@
+import './film.js';
 import { openingState } from '../demo/hours.js';
 const root=document.documentElement;
 root.classList.add('enhanced');

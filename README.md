@@ -10,6 +10,8 @@ Die ursprünglichen drei Konzeptstudien bleiben unter `vergleich.html` erhalten 
 - [Demo 2](https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo-2/): eigenständige Gestaltung aus Kundensicht, Preise früh, direkte Social-Profile und optionale Einbettungen.
 - [Design-Review](https://performiq-gmbh.github.io/website-coiffeurmerveilleux/design-review/): Kundenargumente, Review-Ergebnisse und Grenzen.
 
+Demo 2 zeigt im Hero einen selbst gehosteten 18-Sekunden-Fotofilm aus vier bereitgestellten Haarlooks. Die Bildbasis wurde mit KI aufbereitet und ist so gekennzeichnet. Pause, Lookauswahl und Standbild-Fallback sind eingebaut. Details und optionaler FFmpeg-Renderbefehl: `demo-2/HERO-FILM.md`.
+
 Instagram und TikTok werden erst nach Klick eingebettet. Direkte Profil-Links bleiben bei blockierten Plattforminhalten und ohne JavaScript nutzbar. Es gibt keine Kontoverknüpfung, API-Synchronisierung oder Veröffentlichung von Posts. Die zweite Gesprächsnotiz bleibt lokal; der Salon wird telefonisch kontaktiert. Brief, Richtung und Quellen stehen in `demo-2/BRIEF.md`, der Review in `demo-2/REVIEW.md`.
 
 ## Entwicklung

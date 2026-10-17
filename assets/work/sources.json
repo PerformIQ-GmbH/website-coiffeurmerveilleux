@@ -1,0 +1,23 @@
+{
+  "created": "2026-10-17",
+  "source": "Four hairstyle reference images supplied by the user in chat; burgundy, silver blonde, brunette, rooted blonde balayage.",
+  "preparation": "AI-assisted image cleanup and contact-sheet reconstruction with image_gen; not pixel-identical originals. No Higgsfield generation was available.",
+  "master_file": "assets/work/hair-editorial-master.png",
+  "master_sha256": "0b9a924fbb7a2fb99064b4cc1aefab347ae41f8f8255755e0276e25009e7281f",
+  "panel_seams": {
+    "x": 543,
+    "y": 705,
+    "inset": 2
+  },
+  "video": {
+    "file": "public/media/merveilleux-looks.mp4",
+    "duration_seconds": 18.066667,
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "audio": false,
+    "sha256": "abcfcdc4b9f2dac6ab87964fcc856a80d13760afa5bd5bad66c37aad91121e68"
+  },
+  "reproduction": "python3 scripts/render-hero-film.py (FFmpeg required)",
+  "usage": "Animated editorial image sequence in demo-2 hero. Labelled as AI-prepared photo-film, never as original video footage or before/after evidence."
+}

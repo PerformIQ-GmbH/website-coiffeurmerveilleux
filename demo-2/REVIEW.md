@@ -1,5 +1,10 @@
 # Design-Review: Demo 2
 
+Aktuelles Update: Der Hero zeigt nun einen animierten, KI-aufbereiteten Fotofilm
+aus vier vom Nutzer gelieferten Haarlooks. Siehe `HERO-FILM.md` für den engen
+Komponentenreview und die ausgeführten Medienprüfungen. Die folgenden Abschnitte
+bewahren den ursprünglichen Seitenreview vor diesem Update.
+
 Datum: 17.10.2026 (Europe/Zurich). Ziel: `/demo-2/`. Bestehende Demo 1 und
 Startweiterleitung sind quellseitig unverändert. Es geht um eine eigenständige
 Variante, nicht um eine Messung von Kaufwahrscheinlichkeit oder Kundenzufriedenheit.

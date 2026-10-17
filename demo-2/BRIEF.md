@@ -97,3 +97,12 @@ Abnahme: zwei getrennte erreichbare Demos; alle Quellenpreise erreichbar;
 Tastatur-/Mobilnavigation; sichere Dialoge; Social-Links und Embed-Fallback;
 lokale Anfrage ohne Versand; keine Änderungen an Demo 1. Review unter
 `/design-review/`, technische Belege ausserhalb des Anwendungs-Repositories.
+
+## Update: dynamischer Hero
+
+Am 17.10.2026 wurde der Hero auf ausdrücklichen Wunsch durch einen Fotofilm aus
+vier bereitgestellten Haarlooks ersetzt. Bildbasis mit KI aufbereitet und sichtbar
+so gekennzeichnet; keine Originalvideoaufnahme. Herkunft, Wiedergabeverhalten,
+Prüfergebnis und Higgsfield-Grenze stehen in `HERO-FILM.md`. Merve bleibt im Team,
+Demo 1 bleibt unverändert. Die vorstehenden Gestaltungsnotizen dokumentieren den
+Stand vor diesem gezielten Update.
