@@ -1,6 +1,6 @@
-# Coiffeur Merveilleux: zwei Demos
+# Coiffeur Merveilleux: Demos und Hero-Fotofilm
 
-Quelle: main 4c2086c4fc44c664eb0ef6a7b86764a696a96ba8
+Quelle: main d54cb5be3e726b0b98247ef5bb0c46d89048f87a
 
 Demo 1: https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo/
 Demo 2: https://performiq-gmbh.github.io/website-coiffeurmerveilleux/demo-2/
